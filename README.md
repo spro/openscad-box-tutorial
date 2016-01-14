@@ -1,4 +1,4 @@
-# openscad-boxes-tutorial
+# openscad-box-tutorial
 
 How to design parametric laser cut boxes with [OpenSCAD](http://www.openscad.org/)
 
