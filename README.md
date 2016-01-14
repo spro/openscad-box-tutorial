@@ -24,8 +24,26 @@ How to design parametric laser cut boxes with [OpenSCAD](http://www.openscad.org
 * Copy that and translate it
 * Adjust them by T in the right direction to fit
 
-## Part 3: The Flattening
+## Part 3: Keeping tabs
 
-## Part 4: Order confirmed
+* Cut out bottom tabs in thirds
+* Cut out inverse tabs on bottom of sides
+* Cut out side tabs on two sides
+* Cut out inverse side tabs on other sides
 
-## Part 5: Putting it together
+## Part 4: The Flattening
+
+* Explain why modules are separate from linear_extrude
+* Lay out bottom and sides
+* Laser kerf explanation and outset
+
+## Part 5: Order confirmed
+
+* Turning into an SVG
+* Adjusting to Ponoko Inkscape template
+* Uploading and setting materials
+
+## Part 6: Putting it together
+
+* Assembling the pieces
+* Evaluating and improving kerf offsets
